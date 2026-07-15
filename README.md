@@ -14,3 +14,4 @@ Data-driven analysis of Tang Asian Fusion's sales performance, aimed at identify
 
 | Analysis | Key Finding | Docs | Notebook |
 |---|---|---|---|
+| Data Cleaning | Real customer-ID reliability is 71.8%, not ~86% | [docs/01-data-cleaning.md](docs/01-data-cleaning.md) | [notebooks/01_data_cleaning.ipynb](notebooks/01_data_cleaning.ipynb) |
